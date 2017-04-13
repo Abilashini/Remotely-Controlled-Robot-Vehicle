@@ -7,7 +7,7 @@ to help the user to control the vehicle. NodeMCU has been used as the micro cont
 Speed of the vehicle has been controlled using Pulse Width Modulation(PWM). 
 
 ### Hardware Design:
-![alt tag](Remotely-Controlled-Robot-Vehicle/Hardware_design.png)
+![alt tag](https://github.com/Abilashini/Remotely-Controlled-Robot-Vehicle/blob/master/Hardware_design.png)
 
 ### Functionalities:
 1. The robot car uses a round chassis with two wheels and two ball omni wheels. 
