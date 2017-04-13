@@ -6,6 +6,9 @@ Sonar sensors used to support the user to identify the obstacles and the positio
 to help the user to control the vehicle. NodeMCU has been used as the micro controller in this project. 
 Speed of the vehicle has been controlled using Pulse Width Modulation(PWM). 
 
+### Hardware Design:
+![alt tag](Remotely-Controlled-Robot-Vehicle/Hardware_design.png)
+
 ### Functionalities:
 1. The robot car uses a round chassis with two wheels and two ball omni wheels. 
     The chassis is chosen after considering the factor such as easiness of controlling the car etc. 
